@@ -1,0 +1,28 @@
+name: Jonas Marczy
+favicon: null
+layout_spectrum: 0.490952065680176
+typography_spectrum: 0.11919701262377203
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.06590234418399632
+  lightness: 0.9835386315826327
+  saturation: 0.167996640317142
+  rhythmicContrast: 0.022274429211393
+purpose: []
