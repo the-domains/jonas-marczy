@@ -1,28 +1,40 @@
-name: Jonas Marczy
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.52102
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Jonas Marczy
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#5e5c4a'
-    - '#f2e76d'
-    - '#2c322c'
-    - '#90896b'
-    - '#0a100f'
-  brandStrength: 0.5
-  lightness: 0.9835386315826327
-  saturation: 0.167996640317142
-  rhythmicContrast: 1
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 1
+  brandColors:
+    - '#FEF8D4'
+    - '#201B17'
+    - '#5F5849'
+    - '#AA9983'
+    - '#B4100E'
+  rhythmicContrast: 1
+typography_spectrum: 0.6729323
+layout_spectrum: 0.16058
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
