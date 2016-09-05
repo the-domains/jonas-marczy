@@ -42,4 +42,5 @@ collections:
     permalink:
       path: '/:title/'
 title: Changes
+description: Only what matters...
 purpose: []
