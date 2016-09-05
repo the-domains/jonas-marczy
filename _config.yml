@@ -1,4 +1,3 @@
-layout_spectrum: 0.06460165604948997
 typography_spectrum: 0.598488278221339
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.06460165604948997
 analytics:
   google: null
   facebook: null
@@ -41,4 +41,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+title: Changes
 purpose: []
