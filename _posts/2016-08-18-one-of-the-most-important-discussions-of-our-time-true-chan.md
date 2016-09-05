@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T01:47:58.337Z'
+datePublished: '2016-09-02T01:51:39.247Z'
 sourcePath: >-
   _posts/2016-08-18-one-of-the-most-important-discussions-of-our-time-true-chan.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-09-02T01:47:57.336Z'
+dateModified: '2016-09-02T01:51:37.553Z'
 title: ''
 publisher: {}
 description: One of the most important discussions of our time. True change happens here.
