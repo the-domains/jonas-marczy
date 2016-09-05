@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Jonas Marczy]]></title>
         <description><![CDATA[Jonas Marczy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://jonas.marczy.net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Aug 2016 12:06:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 02 Sep 2016 01:47:59 GMT</lastBuildDate>
+        <atom:link href="http://jonas.marczy.net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>One of the most important discussions of our time. True change happens here.</p>]]></description>
-            <link>undefinedone-of-the-most-important-discussions-of-our-time-true-chan/index.html</link>
+            <link>http://jonas.marczy.net/one-of-the-most-important-discussions-of-our-time-true-chan/index.html</link>
             <guid isPermaLink="false">21139567-db67-40f2-9085-5feaa8395868</guid>
-            <pubDate>Thu, 18 Aug 2016 12:06:55 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2016 01:47:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
