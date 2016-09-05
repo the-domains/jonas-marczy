@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Jonas Marczy]]></title>
         <description><![CDATA[Jonas Marczy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jonas-marczy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 02 Sep 2016 02:00:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 02 Sep 2016 02:02:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jonas-marczy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b97c4863-c196-4a73-a30d-22431ee73a82.png">]]></description>
-            <link>undefinedone-of-the-most-important-discussions-of-our-time-true-chan/index.html</link>
+            <link>https://thegrid.ai/jonas-marczy/one-of-the-most-important-discussions-of-our-time-true-chan/index.html</link>
             <guid isPermaLink="false">21139567-db67-40f2-9085-5feaa8395868</guid>
-            <pubDate>Fri, 02 Sep 2016 02:00:44 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2016 02:02:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
